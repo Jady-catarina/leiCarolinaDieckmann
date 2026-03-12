@@ -17,7 +17,7 @@ prejuízo econômico ou obtenção de conteúdo sigiloso.
 - **Art. 298**: Falsificação de documento particular ou cartão. Pena: reclusão de 1 a 5 anos e multa.
 
 ## Importância e Impacto
-A Lei 12.737/2012 foi o primeiro marco legal brasileiro a punir crimes cibernéticos de forma específica,
+A [Lei 12.737/2012](https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2012/lei/l12737.htm) foi o primeiro marco legal brasileiro a punir crimes cibernéticos de forma específica,
 tornando ilegal o acesso não autorizado a dispositivos eletrônicos e protegendo informações pessoais e
 corporativas. Ela também trouxe desafios práticos, como a coleta de provas digitais e a necessidade de
 conhecimentos técnicos para atuação jurídica em Direito Digital. Além disso, a lei permite que o Ministério Público proponha ações públicas incondicionadas, reforçando a proteção legal contra crimes digitais.
